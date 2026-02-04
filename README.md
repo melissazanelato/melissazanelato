@@ -1,6 +1,6 @@
 ## Oi 👋, me chamo Melissa
 
-<img src="<a href="https://storyset.com/work">Work illustrations by Storyset</a>" width="400px" align="right"/>
+
 
 ### Estudante de Sistemas de Informação
 
